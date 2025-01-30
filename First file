@@ -8,3 +8,11 @@ console.WriteLine("Physics");
 console.WriteLine("Islamiyat");
 console.WriteLine("Computer");
 console.WriteLine("pak st");
+console.WriteLine("Semeste-1");
+console.WriteLine("ITS");
+console.WriteLine("Islamic studies");
+console.WriteLine("Programming");
+console.WriteLine("EHS");
+console.WriteLine("Calculus");
+console.WriteLine("Applied Physics");
+
