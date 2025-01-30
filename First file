@@ -15,4 +15,10 @@ console.WriteLine("Programming");
 console.WriteLine("EHS");
 console.WriteLine("Calculus");
 console.WriteLine("Applied Physics");
-
+console.WriteLine("semeste-2");
+console.WriteLine("SDLC");
+console.WriteLine("discrete math");
+console.WriteLine("Oop");
+console.WriteLine("T.Q");
+console.WriteLine("Software management");
+console.WriteLine("scm");
