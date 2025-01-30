@@ -1,2 +1,10 @@
-console.WriteLine("muhammad ahmad ");
+console.WriteLine("Muhammad Ahmad");
 console.WriteLine("24-ST-027");
+console.WriteLine("ICS subjects");
+console.WriteLine("English");
+console.WriteLine("Urdu");
+console.WriteLine("Math");
+console.WriteLine("Physics");
+console.WriteLine("Islamiyat");
+console.WriteLine("Computer");
+console.WriteLine("pak st");
